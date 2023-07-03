@@ -1,0 +1,2 @@
+# simon-game
+homework project 
